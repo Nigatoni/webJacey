@@ -106,7 +106,7 @@ export function AboutMe() {
                 {/* App image 1 */}
                 <div className="w-12 h-12 relative">
                   <a
-                    href="https://instagram.com"
+                    href="https://www.instagram.com/jaccsha_22?igsh=MWlsdDVmZXdzdmZ5Zg%3D%3D&utm_source=qr"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-foreground hover:text-accent-red transition-colors"
@@ -119,7 +119,7 @@ export function AboutMe() {
                 </div>
                 {/* App image 2 */}
                 <a
-                  href="mailto:jacey@example.com"
+                  href="mailto:jaceyhan@gmail.com"
                   className="text-foreground hover:text-accent-red transition-colors"
                   aria-label="Email"
                 >
